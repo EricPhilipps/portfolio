@@ -1,0 +1,36 @@
+:root {
+    /* colors */
+}
+
+body {
+
+}
+
+.navbar {
+ background-color
+}
+
+.jumbotron {
+    text-align: center;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.row {
+    /* width: 100%; */
+    display: block;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    align-items: center;
+}
+
+.contact-info {
+    text-align: center;
+}
