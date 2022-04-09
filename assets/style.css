@@ -1,5 +1,6 @@
 :root {
-    /* colors */
+    var(--darkBlue) = rgb(4, 0, 255);
+    var(--lightBlue) = 
 }
 
 body {
@@ -7,7 +8,7 @@ body {
 }
 
 .navbar {
- background-color
+    /* background-image: linear-gradient(to right, rgb(4, 0, 255) , rgb(0, 195, 255)); */
 }
 
 .jumbotron {
